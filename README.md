@@ -1,6 +1,6 @@
 # Navigating-Mental-Health-Landscapes-and-Mortality-Trends-Globally
 
-##Introduction:
+Introduction:
 
 This project explores the intricate relationships between global mental health and physical health indicators. By analyzing comorbidity patterns, mortality trends, gender-based differences, and the connection between mental disorders and suicide rates, we aim to uncover valuable insights. Our work is driven by the need for a holistic understanding of mental health, contributing to informed policies and interventions on a global scale.
 
