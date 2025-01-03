@@ -1,4 +1,4 @@
-# Navigating-Mental-Health-Landscapes-and-Mortality-Trends-Globally
+# Global Mental Health and Physical Health Analysis
 
 Introduction:
 
